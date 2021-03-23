@@ -13,7 +13,7 @@
 		metadata(array(
 			"titulo" => "Presidente Photo Assignment",
 			"tags" => ", festival, photo, assignment",
-			"icon_path" => "img/ico.png",
+			"icon_path" => "https://miguel-rivas.github.io/zapp/img/favicon.ico",
 			"device" => true,
 			"description" => "Revive el Festival Presidente 2014 desde otra perspectiva."
 		));
